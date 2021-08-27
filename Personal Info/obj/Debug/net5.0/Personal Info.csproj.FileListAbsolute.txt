@@ -1,0 +1,16 @@
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.exe
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.deps.json
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.runtimeconfig.json
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.runtimeconfig.dev.json
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.dll
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\ref\Personal Info.dll
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\bin\Debug\net5.0\Personal Info.pdb
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.csproj.AssemblyReference.cache
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.AssemblyInfoInputs.cache
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.AssemblyInfo.cs
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.csproj.CoreCompileInputs.cache
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.dll
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\ref\Personal Info.dll
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.pdb
+D:\School Work\CIS 112 Computer Programming\Projects\Personal Info\Personal Info\Personal Info\obj\Debug\net5.0\Personal Info.genruntimeconfig.cache
